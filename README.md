@@ -9,8 +9,8 @@ same way as SCIP (see the installation instructions there).
 
 The code is then placed in the "bin/" directory. It is run by passing
 an LP- oder MPS-file that contains a set covering instances. Settings
-can be passed with "-s <setting file>". For example,
+can be passed with "-s \<setting file\>". For example,
 
-bin/setCovering <file> -s settings/presolve.set
+bin/setCovering \<file\> -s settings/presolve.set
 
 This enables symmetry presolving as explained in https://optimization-online.org/?p=32590.
