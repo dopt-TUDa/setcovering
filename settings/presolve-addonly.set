@@ -1,0 +1,5 @@
+sc/presolving = true
+sc/preaddition = true
+sc/premerge = false
+sc/prefixation = false
+sc/maxfactor = 10
